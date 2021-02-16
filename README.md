@@ -1,5 +1,7 @@
 # CarCRush-Project
-project of a top down 2d game using C++ and the SFML  library.
+A top down 2d game using C++ and the SFML  library.
+I implemented in the game a self-driving
+cars and car physics.
 
 Ide: Visual Studio.
 
