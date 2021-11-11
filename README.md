@@ -1,4 +1,4 @@
-# CarCRush
+# CarCrush
 ## A Graphicly rich 2d Top down video game.
 I implemented in the game algorithm self-driving cars and car physics.
 
